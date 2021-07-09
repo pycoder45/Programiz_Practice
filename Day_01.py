@@ -84,3 +84,7 @@ else :
   print("Number Is Less Thak Zero ")
   
 print("-"*50)
+
+
+# Some tips :
+# 4. Use The 
